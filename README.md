@@ -26,7 +26,6 @@
 <p align="center">
   <strong>A full stack, multiplatform developer and also a White Hat.<br>Really don't have much to write here ... so how are you?</strong>
   <br>
-  <img src="https://via.placeholder.com/200x33/none/00000?text=You%20are%20using%20light%20theme.">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vitorblog&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorblog&show_icons=true&theme=radical" height="195px">
