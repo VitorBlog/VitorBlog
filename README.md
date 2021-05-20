@@ -27,6 +27,6 @@
   <strong>A full stack, multiplatform developer and also a White Hat.<br>Really don't have much to write here ... so how are you?</strong>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorblog&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorblog&show_icons=true&theme=radical" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorblog&show_icons=true&theme=radical&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorblog&show_icons=true&theme=radical&count_private=true" height="195px">
 </p>
