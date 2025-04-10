@@ -21,7 +21,7 @@
   <a href="https://wa.me/5547996910435" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/47 996910435-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </h1>
 <p align="center">
-  <strong>Java Dev at Vortigo Digital.<br>Really don't have much to write here... so how are you?</strong>
+  <strong>Java Dev at CI&T.<br>Really don't have much to write here... so how are you?</strong>
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vitorblog&show_icons=true&theme=radical&count_private=true">
