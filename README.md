@@ -15,13 +15,9 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <br>
-  <a href="https://www.instagram.com/vit.orpaulo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/vit.orpaulo-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vitor-paulo-910186164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Vitor Paulo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/dev?id=5689578225764006091" target="_blank"><img alt="Play Store" src="https://img.shields.io/badge/Vitor Paulo-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-  <a href="https://wa.me/5547996910435" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/47 996910435-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </h1>
 <p align="center">
-  <strong>Java Dev at CI&T.<br>Really don't have much to write here... so how are you?</strong>
+  <strong>Java Dev at CI&T.</strong>
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vitorblog&show_icons=true&theme=radical&count_private=true">
